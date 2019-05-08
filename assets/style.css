@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    background: black;
+    text-align: center;
+}
+
+.painel__stranger{
+    height: 50vh;
+    margin-top: 100px;
+
+}
+
+.bnt__play{
+    height: 20vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: black;
+}
